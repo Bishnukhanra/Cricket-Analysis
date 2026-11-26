@@ -1,0 +1,16 @@
+Player,Verdict,Reason,Notes
+Rinku Singh,REMOVE,"batting only 14 runs in 4 inns at SR 51.9 (avg 4.7, 0 fours / 1 sixes); no bowling skill to offset the batting",
+Washington Sundar,REMOVE,"batting only 12 runs in 2 inns at SR 100.0 (avg 12.0, 0 fours / 1 sixes); bowling 0 wkts in 6.0 ov at econ 8.83",
+Shivam Dube,KEEP (role change),"keep as batter only (131 runs at SR 154.1); withdraw the ball - econ 13.29, 6 sixes given",
+Abhishek Sharma,KEEP,batting 70 runs @ SR 152.2; bowling 0 wkts @ econ 10.0 in 1.0 ov,volatile (2 near-golden ducks) - short leash
+Arshdeep Singh,KEEP,"core bowler: 8 wkts @ econ 7.11, 44.4% dots","batting is tail-end bonus, not a selection factor"
+Axar Patel,KEEP,"core bowler: 7 wkts @ econ 7.2, 45.6% dots",
+Hardik Pandya,KEEP,core batter: 155 runs @ SR 163.2,cap at 2-3 overs in favourable match-ups (overall econ 8.43)
+Ishan Kishan,KEEP,core batter: 137 runs @ SR 182.7,
+Jasprit Bumrah,KEEP,"core bowler: 7 wkts @ econ 5.62, 51.0% dots",
+Kuldeep Yadav,KEEP,bowling 1 wkts @ econ 4.67 in 3.0 ov,small sample but impressed - rotation option
+Mohammed Siraj,KEEP,bowling 3 wkts @ econ 7.25 in 4.0 ov,small sample but impressed - rotation option
+Sanju Samson,KEEP,strike-rate outlier (SR 200.0) - promote up the order,
+Suryakumar Yadav,KEEP,core batter: 181 runs @ SR 143.7,
+Tilak Varma,KEEP,core batter: 126 runs @ SR 159.5,
+Varun Chakravarthy,KEEP,"core bowler: 11 wkts @ econ 7.2, 44.2% dots",form dip: last 2 spells at econ 10.25 - avoid death overs
